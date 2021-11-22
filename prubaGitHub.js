@@ -1,0 +1,1 @@
+document.write("Escribiendo en el document ...");
